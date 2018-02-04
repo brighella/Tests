@@ -1,3 +1,5 @@
+package test1.sendbox;
+
 public class myprogramm {
 
   public static void main(String[] args)
